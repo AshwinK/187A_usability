@@ -1,0 +1,28 @@
+.hero-unit {
+    background-color: rgb(239,243,210);
+    padding: 20px;
+}
+
+.sidebar-nav {
+    background-color: rgb(239,243,210);
+    height: 695px;
+    padding: 0px;
+}
+
+.text-red {
+    color: rgb(196,12,29);
+}
+
+.wordsizenav {
+    font-size: 200%;
+}
+
+body {
+    background-color: rgb(239,243,210);
+    
+}
+
+.btn-red {
+    background-color: rgb(196,12,29);
+}
+
