@@ -1,11 +1,11 @@
 .hero-unit {
     background-color: rgb(239,243,210);
-    padding: 20px;
+    padding: 0px;
 }
 
 .sidebar-nav {
     background-color: rgb(239,243,210);
-    height: 695px;
+    height: 685px;
     padding: 0px;
 }
 
@@ -26,3 +26,20 @@ body {
     background-color: rgb(196,12,29);
 }
 
+.hr {
+    padding: 0px;
+}
+
+.center {
+    margin-left: 175px;
+}
+
+.center1 {
+    margin-left: 195px;
+}
+
+.current {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
